@@ -9,9 +9,8 @@ reserved = {
     'function': 'FUNCTION',
     'return': 'RETURN',
 
-} # Verify this
+}
 
-# TODO: Complete this list
 tokens = [
     'INT',
     'FLOAT',
